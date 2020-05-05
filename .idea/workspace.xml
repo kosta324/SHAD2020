@@ -16,18 +16,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3025c1b-12ce-4794-993c-171f3dcc61c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SHAD2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Task J/J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Task K/K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Task K/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Task K/output.txt" afterDir="false" />
+    <list default="true" id="d3025c1b-12ce-4794-993c-171f3dcc61c3" name="Default Changelist" comment="ok">
+      <change afterPath="$PROJECT_DIR$/Test/Task J/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Task J/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Task K/task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bTuSmrv8hxapD6mrL4tCAVWJws" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +48,28 @@
       <recent name="C:\Users\Home\PycharmProjects\SHAD2020\Test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.J">
+    <configuration name="J" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SHAD2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/Task J" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Task J/J.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SHAD2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.J" />
         <item itemvalue="Python.K" />
       </list>
     </recent_temporary>
@@ -91,6 +109,14 @@
       <option name="presentableId" value="Default" />
       <updated>1588668406116</updated>
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1588669983234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588669983234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,7 +143,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="100" key="#K" timestamp="1588668758866">
@@ -148,10 +175,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1588669488559" />
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1588669682499">
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1588670020361">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1588669682499" />
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1588670020361" />
     <state x="649" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588668900871">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
